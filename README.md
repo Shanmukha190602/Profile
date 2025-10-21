@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Maganti Shanmukha Sri Datta
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/insert-your-image-path-here.jpg" alt="Profile Photo" width="150">
+  <img src="C:\Users\pc\Downloads\Profile Photo.png" alt="Profile Photo" width="150">
 </p>
 
 **Location:** Hyderabad, Telangana, India  
