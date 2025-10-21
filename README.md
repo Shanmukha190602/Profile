@@ -38,7 +38,7 @@
 
 ## 🚀 Projects
 
-### Real Time Weather Classification System (Present)
+### Real Time Weather Classification System 
 - Custom Verilog modules for real-time weather analysis on Basys3 FPGA
 - Offline-trained decision tree logic for environmental condition analysis
 - Sensor integration (DHT11) with UART & LCD for processor-free monitoring  
