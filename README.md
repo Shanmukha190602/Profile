@@ -11,9 +11,7 @@
 
 ---
 
-## 🎯 Objective
 
-Motivated VLSI Design student driven by curiosity for digital design, verification, and hardware architecture. Excited to apply academic learning to practical design challenges and grow through hands-on experience and collaboration.
 
 ---
 
