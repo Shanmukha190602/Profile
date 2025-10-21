@@ -11,10 +11,6 @@
 
 ---
 
-
-
----
-
 ## 📚 Education
 
 - **M.Tech in VLSI Design**, Amrita Vishwa Vidyapeetham Coimbatore (2024 – 2026)  
